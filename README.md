@@ -36,6 +36,22 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
 <table>
     <tr>
         <td>
+            <a href="http://permaground.wikispaces.com/" target="_blank">Permaground - A Permanent Culture of Abundance</a>
+        </td>
+        <td>
+             The goal of this project is to create a wiki-based collective open-source Permaculture Designer Manual, that anyone can enrich and report from learning experiences. Free for all, gardeners, designers, farmers, activists, teachers, and students as well as all curious, can share and apply this knowledge in their own community. We also aim to connect people and information, and facilitate exchanges about permaculture, sustainability, environmentalism, green building, organic gardening and farming. In this wiki-based free manual, "permaculture" is considered in its largest meaning, mainly as an agricultural base for human habitats, but also including other aspects of life : construction, energy, manufacturing, economy, community organization..
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://permaculturesource.wikispaces.com/" target="_blank">Permaculture Resource Wiki</a>
+        </td>
+        <td>
+             The material on this site is for research and educational purposes only. Always, use multiple sources to ensure the information you are sourcing is updated and accurate. The potentials of this library are still untapped, I welcome collaboration! You can navigate the pages in the left hand column or through the site map below.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://permaculture.wikia.com/wiki/Permaculture_Wiki" target="_blank">PermaWiki</a>
         </td>
         <td>
@@ -48,6 +64,14 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
         </td>
         <td>
              Permaculture is an integrated approach to designing healthy, productive, wildlife friendly, places. The ethics and design principles can be applied to every area of your life. It is being used all around the world. Find out about permaculture ethics, principles, design approaches and useful information on over 200 practical solutions!
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.appropedia.org/Portal:Food_and_agriculture" target="_blank">Appropedia</a>
+        </td>
+        <td>
+             The food and agriculture portal.
         </td> 
     </tr>
     <tr>
@@ -121,6 +145,31 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
         </td> 
     </tr>
 </table>
+
+## Bill Mollison
+
+<table>
+    <tr>
+        <td>
+            <a href="http://www.networkearth.org/perma/culture.html#Permaculture" target="_blank">Bill Mollison's 72 hour PDC</a>
+        </td>
+        <td>
+             These videos are documents from two design courses taught by Bill Mollison at the Fossil Rim Wildlife Center in Glen Rose Texas in 1994 and 1995. They are a definitive selection from our original 16 part series. These tapes bear many viewings and will benefit anyone who wants to learn how to help regenerate the earth - from back yard to bio-region. Teachers of permaculture have found these tapes to be a valuable coaching tool - edited to one hour.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=6RD1GW-vOHg&list=PLpPdxCdfM23xtpPWyLQgYEJ7b6GSwOn0W" target="_blank">YouTube Playlist</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://tcpermaculture.com/docs/Introduction%20to%20Permaculture-Mollison.pdf" target="_blank">Introduction to Permaculture</a>
+        </td> 
+    </tr>
+</table>
+
+
 
 ## License
 
