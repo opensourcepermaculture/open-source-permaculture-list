@@ -41,6 +41,8 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
         <td>
              This is an amazing resource of old copyright free books. There are, for example, some great russian books (in english) on plant structure and microbial effects and all sorts of topics which you’d have a hard time finding in popular books today. However, it is quite a large time investment to read them.
         </td> 
+    </tr>
+    <tr>
         <td>
             <a href="http://www.perennialsolutions.org/perennial-plant-seed-sources-catalogs-stores-permaculture-varieties-hardy-hybrids-organic-gardening.html" target="_blank">Eric Toensmeier - ONLINE PLANT FINDERS</a>
         </td>
