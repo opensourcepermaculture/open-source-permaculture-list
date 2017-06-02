@@ -44,9 +44,8 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
         <td>
             <a href="http://www.perennialsolutions.org/perennial-plant-seed-sources-catalogs-stores-permaculture-varieties-hardy-hybrids-organic-gardening.html" target="_blank">Eric Toensmeier - ONLINE PLANT FINDERS</a>
         </td>
-              These can help you track down hard-to-find species
         <td>
-        
+            These can help you track down hard-to-find species
         </td>  
     </tr>
 </table>
