@@ -31,9 +31,33 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
 </table>
 
 
-## Online Repositories
+## Wikis and Online Repositories
 
 <table>
+    <tr>
+        <td>
+            <a href="http://permaculture.wikia.com/wiki/Permaculture_Wiki" target="_blank">PermaWiki</a>
+        </td>
+        <td>
+             The free permaculture designers manual that anyone can edit.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://knowledgebase.permaculture.org.uk/" target="_blank">Permaculture Association - Permaculture Knowledge Base</a>
+        </td>
+        <td>
+             Permaculture is an integrated approach to designing healthy, productive, wildlife friendly, places. The ethics and design principles can be applied to every area of your life. It is being used all around the world. Find out about permaculture ethics, principles, design approaches and useful information on over 200 practical solutions!
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://apiosinstitute.org/wiki" target="_blank">Apios Institute Wiki</a>
+        </td>
+        <td>
+             The Apios Institute's mission is to share experience and knowledge about perennial crop polyculture systems for all climates, through a collaborative network of farmers, gardeners, and researchers, in order to fill critical knowledge gaps regarding the design and management of these systems. The apiosinstitute.org website is the main tool through which the organization seeks to achieve this mission. The core of this website is designed as a wiki-like environment where users from around the world can learn about perennial crop polycultures and contribute their own experiences to enrich the site.
+        </td> 
+    </tr>
     <tr>
         <td>
             <a href="http://soilandhealth.org/agricultural-library-sort-by-subject/" target="_blank">Soil and Health Library</a>
@@ -86,6 +110,14 @@ A curated list of free permaculture resources. Inspired by John Vajra's (https:/
         </td>
         <td>
             This is a companion piece to “Stabilizing the Climate with ‘Permanent Agriculture‘,” an article that appeared in the Spring 2011 issue of the Permaculture Activist. That article laid out the potential for perennial farming systems like agroforestry and perennial crops to sequester carbon while providing multiple social and ecological benefits. This article reviews perennial staple crops, a little-known group of species with tremendous potential to address world problems. 
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.perennialsolutions.org/useful-perennial-plant-profiles-hardy-organic-gardening-plants-permaculture-urban-resource-garden.html" target="_blank">Eric Toensmeier - Online Plant Profiles</a>
+        </td>
+        <td>
+            Plant profiles from around the world. 
         </td> 
     </tr>
 </table>
